@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.calculator-container  {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 3px;
+  border: 1px solid #dee2e6;
+}

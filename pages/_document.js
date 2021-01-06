@@ -7,6 +7,8 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <meta name="description" content="Free online percentage calculator" />
+          <meta name="keywords" content="percentage calculator, calculators, percentage calculation, calculate percentage, find percentage, money percentage calculator, calculators online" />
           {/* Global Site Tag (gtag.js) - Google Analytics */}
           <script
             async
